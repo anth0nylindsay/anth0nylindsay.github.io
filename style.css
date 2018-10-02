@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  height: 350px;
+  background-image: url("https://images.pexels.com/photos/73873/star-clusters-rosette-nebula-star-galaxies-73873.jpeg?auto=compress&cs=tinysrgb&h=400");
+  background-size: 900px;
+  background-position: center;
+}
